@@ -1,0 +1,50 @@
+@import "../../Global.scss";
+
+.footer    {
+  
+    background: darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .icons {
+        font-size: xx-large;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    
+    .facebook  {
+        margin-right: 10px;
+        margin-left: 10px;
+        text-decoration: none;
+        
+        }
+    .github {
+        margin-right: 10px;
+        margin-left: 10px;
+        text-decoration: none;
+        
+    }
+    .linkedin {
+        margin-right: 10px;
+        margin-left: 10px;
+        text-decoration: none;
+       
+    }
+    .whatsapp {
+        margin-right: 10px;
+        margin-left: 10px;
+        text-decoration: none;
+        
+    }
+    .wechat {
+        margin-right: 10px;
+        margin-left: 10px;
+        cursor: pointer;
+        text-decoration: none;
+        
+        }
+    
+    }  
+}
